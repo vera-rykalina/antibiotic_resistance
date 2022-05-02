@@ -2,7 +2,7 @@ Nexflow pipeline to determine antibiotic resistance
 ====
 # Recommendations:
 
-### Recomendation for Patient 1
+### Recommendation for Patient 1
 Patient1 has no "Tet*" in srst2 result. This patient should
 be prescribed tetracyclines. Patient1 should get an antibiotic of priority 1: Doxycycline.
 
